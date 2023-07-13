@@ -20,4 +20,4 @@
 
 
 <h2>Projeto</h2>
-<p>Voçe pode visualizar o o projeto através deste link: <a href="https://noccev.github.io/meu-perfil-vitornocce/">projeto.</a></p>
+<p>Voçe pode visualizar o o projeto através deste link: <a href="https://noccev.github.io/meu-perfil-vitornocce/" target="_blank">projeto.</a></p>
